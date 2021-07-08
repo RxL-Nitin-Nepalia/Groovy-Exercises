@@ -1,3 +1,3 @@
-def m = ["Nitin":23]
+Gnewlknclenjdcljndeljnkdef m = ["Nitin":23]
 m.class
 m.getClass()
